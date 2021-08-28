@@ -28,6 +28,7 @@ export default function Home() {
                             <article key={post.id}>
                                 <strong className="post-title">{post.titulo}</strong>
                                 <img src={post.capa} alt={post.titulo} />
+                                <p>{post.subtitulo}</p>
                                 <Link className="text-link" to={`${post.id}`}>Ler mais</Link>
                             </article>
                         </div>

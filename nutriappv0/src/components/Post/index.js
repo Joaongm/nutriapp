@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import {useParams, useHistory} from 'react-router-dom';
 import api from '../../services/api';
-// a implementar
+// á implementar
 export default function Post() {
     const {id} = useParams();
     const history = useHistory();
