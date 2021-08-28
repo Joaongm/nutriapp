@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(31, 31, 31);
+    color: aliceblue;
+}
+
+.not-found{
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.not-found img{
+border-radius: 10%;
+}

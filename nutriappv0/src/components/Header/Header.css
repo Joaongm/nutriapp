@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap');
+html{
+    font-family: "Kaisei Tokumin", serif;
+}
+
+
+.logo{
+    text-decoration: none;
+    color: aquamarine;
+    font-size: 2rem;
+}
+
+.logo:active{
+    text-decoration: none;
+    color: aquamarine;
+}
